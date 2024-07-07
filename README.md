@@ -16,3 +16,6 @@ pretty straight forward, but I'm thinking of adding twists like "secret items" t
 
 # password manager
 This is to manage your passowrds, there isn't really anything special, it's efficient and I had fun making it
+
+# wordle
+it is a python version of wordle, with difficulty levels (the number of letters in a word)
